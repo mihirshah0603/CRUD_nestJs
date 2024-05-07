@@ -1,4 +1,3 @@
-```markdown
 # NestJS Todo API
 
 This repository contains a simple Todo API built with NestJS framework. It provides CRUD operations for managing todo items.
